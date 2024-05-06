@@ -1,4 +1,3 @@
-name,12,male,12.0
-test,12,male,32.0
-test,12,male,32.0
-fds,12,female,322.0
+Do Trung Hai,20,male,10.0
+Do Trung Hai,20,male,10.0
+Thach Dao,1,female,2.0
